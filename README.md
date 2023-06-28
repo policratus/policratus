@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey you, I'm Nelson Forte, aka Policratus <img src="https://github.com/policratus/policratus/assets/827563/91bf9d97-27a6-446e-b54c-bd5fa407af54" width="40"> !
 
-<!--
-**policratus/policratus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Nelson Forte](https://github.com/policratus/policratus/assets/827563/1b14edd1-4a24-4ae1-82e4-b7fb0f568527)
 
-Here are some ideas to get you started:
+- 👨🏻‍💻 Developing software (professionally) since 1999.
+- 🔭 I’m currently working on computer vision projects, using classic and state-of-the-art algorithms and techniques.
+- 💬 Ask me about everything related to working with AI using images and videos.
+- ⚡ Fun fact: Love to play (retro or new) videogames and also play the guitar and make music. Check this out: [Policratus Youtube Music Channel](https://www.youtube.com/@policratus)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:policratus@gmaiil.com)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nelsonforte)
