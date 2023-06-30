@@ -1,6 +1,6 @@
-# <img src="https://github.com/policratus/policratus/assets/827563/91bf9d97-27a6-446e-b54c-bd5fa407af54" width="40"> Hey you, I'm Nelson Forte, aka Policratus!
+# <img src="https://github.com/policratus/policratus/assets/827563/5ba72fdc-788a-4483-9be4-6d25a1c33d8d" width="40"> Hey you, I'm Nelson Forte, aka Policratus!
 
-![Nelson Forte](https://github.com/policratus/policratus/assets/827563/1b14edd1-4a24-4ae1-82e4-b7fb0f568527)
+![Nelson Forte](https://github.com/policratus/policratus/assets/827563/078766ea-28c4-4da9-8a07-1438f03ebb6f)
 
 - 👨🏻‍💻 Developing software (professionally) since 1999.
 - 🔭 I’m currently working on computer vision projects, using classic and state-of-the-art algorithms and techniques.
