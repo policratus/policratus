@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Love to play (retro or new) videogames and also play the guitar and make music. Check this out: [Policratus Youtube Music Channel](https://www.youtube.com/@policratus)
 
 ## 📫 Wanna talk? Drop a message
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:policratus@gmaiil.com) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nelsonforte) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelsonforte)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:policratus@gmail.com) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nelsonforte) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelsonforte)
 
 ## 📊 Stats
 
